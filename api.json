@@ -1,15 +1,15 @@
 {
     "networks": [
-        3
+        1,4
     ],
-    "facebookBannerId": "673512806695025_674204649959174",
-    "facebookInterstitialId": "673512806695025_674204453292527",
-    "facebookNativeId": "673512806695025_673513140028325",
-    "facebookNativeBannerId": "673512806695025_674204673292505",
+    "facebookBannerId": "IMG_16_9_APP_INSTALL#673512806695025_674204649959174",
+    "facebookInterstitialId": "IMG_16_9_APP_INSTALL#673512806695025_674204453292527",
+    "facebookNativeId": "IMG_16_9_APP_INSTALL#673512806695025_673513140028325",
+    "facebookNativeBannerId": "IMG_16_9_APP_INSTALL#673512806695025_674204673292505",
     "adMobPublisherId": "ca-app-pub-4554533033157922~5592023287",
-    "adMobInterstitialId": "ca-app-pub-4554533033157922\/8026599025",
-    "adMobBannerId": "ca-app-pub-4554533033157922\/9311776448",
-    "adMobMediumRectangleId": "ca-app-pub-4554533033157922\/9910526336",
+    "adMobInterstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "adMobBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "adMobMediumRectangleId": "ca-app-pub-3940256099942544/6300978111",
     "appodealAppKey": "245f788a9fe343cf28258eb8ef51fc78040c6d26ca139d8f",
     "unityAppId": "",
     "webViewUrl": "",
