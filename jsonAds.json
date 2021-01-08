@@ -1,12 +1,12 @@
 {
   "ads_unites" : {
     "app_version" : "1.0.0",
-    "khfayaMethod":"true",
-    "nativeAdmob":"ca-app-pub-7439768615907776/2226225391",
-    "openAdAdmob":"ca-app-pub-7439768615907776/5057769844",
+    "khfayaMethod":"false",
+    "nativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+    "openAdAdmob":"ca-app-pub-3940256099942544/3419835294",
     "appIdAdmob" :"ca-app-pub-7439768615907776~7199350473",
-    "bannerAdmob" : "ca-app-pub-5jj1569723981722/2515261789",
-    "interstitialAdmob" : "ca-app-pub-5ll1569723981722/3469250808",
+    "bannerAdmob" : "ca-app-pub-3940256099942544/6300978111",
+    "interstitialAdmob" : "ca-app-pub-3940256099942544/1033173712",
     "bannerFacebook1" : "720155832251010_721202328813027",
     "bannerFacebook2" : "720155832251010_721202472146346",
     "bannerFacebook3" : "720155832251010_721203348812925",
